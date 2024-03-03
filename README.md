@@ -1,7 +1,10 @@
 TINKERHACK 2.0
 
 TEAM NAME : Klan
+Sack : HTML
 
+Reduce travel costs with the help of Kochi metro. 
+Kochi metro student pass can be availed at Rs.50, Adults for Rs70 - Rs150, MetroSpots allows the user to travel destinations in and around kochi metro stations such that travel expenses can be reduced drastically. 
 
 
 
